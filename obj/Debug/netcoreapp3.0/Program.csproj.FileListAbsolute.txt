@@ -1,0 +1,11 @@
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program.deps.json
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program.runtimeconfig.json
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program.runtimeconfig.dev.json
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program.dll
+/Users/academy/Projects/Program/Program/bin/Debug/netcoreapp3.0/Program.pdb
+/Users/academy/Projects/Program/Program/obj/Debug/netcoreapp3.0/Program.csprojAssemblyReference.cache
+/Users/academy/Projects/Program/Program/obj/Debug/netcoreapp3.0/Program.AssemblyInfoInputs.cache
+/Users/academy/Projects/Program/Program/obj/Debug/netcoreapp3.0/Program.AssemblyInfo.cs
+/Users/academy/Projects/Program/Program/obj/Debug/netcoreapp3.0/Program.dll
+/Users/academy/Projects/Program/Program/obj/Debug/netcoreapp3.0/Program.pdb
